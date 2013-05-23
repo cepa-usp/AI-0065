@@ -1,0 +1,19 @@
+AI-0065
+-------
+
+Objetivos da Atividade Interativa (AI): exercitar a primeira lei de Newton.
+
+Objetivo do usuário: representar corretamente a trajetória do ponto-material P.
+
+---
+
+Resolução do exercício 1: primeiramente, o usuário deve avaliar a resultante das forças F_1, F_2 e F_3, e concluir que é zero (a AI escolhe essas forças de forma arbitrária, mas garante que a resultante é sempre zero). Deste modo, pela primeira lei de Newton (inércia), o corpo mantém-se em seu estado original, que no caso é movendo-se com volocidade v_0. Portanto, a trajetória é uma semireta que começa em P (antes disso não sabemos que forças atuaram em P) e que é paralela a v_0. Para representar isso, arraste A para cima de P e ajuste B de modo a tornar a semireta AB paralela a v_0 (você pode arrastar v_0 para cima de P para facilitar).
+
+obs.: a massa dada NÃO é necesária; serve apenas para dificultar o exercício.
+
+---
+
+Observações
+1) As forças F_1, F_2 e F_3 são escolhidas aleatoriamente a cada novo exercício, mas sempre de modo que a resultante seja nula.
+2) Esta AI utiliza o Geogebra, que requer o plugin do Java instalado.
+3) Atenção: às vezes o Geogebra exibe incorretamente a cena, apresentando uma série de linhas sem sentido. Para resolver isso simplesmente arraste a cena com o botão "transladar janela de visualização", no canto superior esquerdo da janela do Geogebra.
